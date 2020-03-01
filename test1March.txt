@@ -1,0 +1,13 @@
+1-State
+2-composite
+3-proxy
+4-protoype
+5-chain of resp
+6-visitor
+7-observer
+8-/strategy??
+9-absfactory
+10-decorator
+11-memento
+12-builder
+13-adapter
